@@ -4,7 +4,7 @@
 
 <h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
 
-<h3 align="center"> Personal Project </h3>
+<h3> Personal Project </h3>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
