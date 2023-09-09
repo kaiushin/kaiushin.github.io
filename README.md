@@ -4,6 +4,10 @@
 
 <h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
 
+### Socials
+
+### Technical Skills
+
 ### Personal Project
 
 <div style="display: flex; align-items: center;">
