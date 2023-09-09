@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-shin/)
 
+[![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu)
+
 
 ### Technical Skills
 
