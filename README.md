@@ -10,7 +10,7 @@
     Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
   </div>
   <div style="flex: 1; text-align: center;">
-    <!-- Image goes here -->
-    ![Image Alt Text](https://example.com/your-image.jpg)
+    <!-- GitHub logo -->
+    ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
   </div>
 </div>
