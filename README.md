@@ -11,6 +11,6 @@
   </div>
   <div style="flex: 1; text-align: center;">
     <!-- GitHub logo -->
-    ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
   </div>
 </div>
