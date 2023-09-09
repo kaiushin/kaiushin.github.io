@@ -1,1 +1,1 @@
-# U Shin, CoE Student
+# U Shin, Embedded Software Student
