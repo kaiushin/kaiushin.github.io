@@ -184,7 +184,7 @@
 
 <!-- ------------------------------- Courses ------------------------------- -->
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;">
   <div style="flex: 1; max-width: 50%; padding: 20px;">
     <h2 style="font-size: 24px;">Courses</h2>
 
@@ -199,4 +199,6 @@
 
 <!-- ------------------------------- Statistics ------------------------------- -->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<center>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+</center>
