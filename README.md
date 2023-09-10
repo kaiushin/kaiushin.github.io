@@ -1,8 +1,12 @@
+<!-- ------------------------------- Headers ------------------------------- -->
+
 <h1 align="center"> </h1>
 <h1 align="center"> U Shin </h1>
 <h2 align="center"> Computer Engineering Student </h2>
 
 <h4 align="center">  I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable Gate Arrays (FPGAs). I am passionate about seamlessly integrating hardware and software for various applications </h4>
+
+<!-- ------------------------------- Socials ------------------------------- -->
 
 <p align="center">
   <a href="mailto:ushin@buffalo.edu" style="margin: 0">
@@ -52,7 +56,8 @@
       <h2 style="font-size: 24px;">Project: IoT Remote Control Car</h2>
       
       <p><strong>Description:</strong><br>
-      This project utilizes an ESP32 microcontroller with Bluetooth capabilities, allowing your             smartphone to connect to an app that emulates a physical controller. Simply press the "En"            button on the ESP32 to pair with your phone via the "Arduino BT Joystick" app.
+      This project utilizes an ESP32 microcontroller with Bluetooth capabilities, allowing your smartphone to connect to an app that emulates a physical controller. Simply press the "En"            
+      button on the ESP32 to pair with your phone via the "Arduino BT Joystick" app.
       </p>
       
       <p><strong>Key Focus Areas:</strong></p>
@@ -74,7 +79,7 @@
       </ul>
   
       <p>
-      This project allowed me to apply my passion for RC technology and develop expertise in IoT,           hardware modification, and microcontroller programming.
+      This project allowed me to apply my passion for RC technology and develop expertise in IoT, hardware modification, and microcontroller programming.
       </p>
     </div>
 
@@ -96,7 +101,7 @@
       <h2 style="font-size: 24px;">Project: Blender Digital Twin</h2>
       
       <p><strong>Description:</strong><br>
-      I created a physical model of a blender digital twin with various speed settings, camera views,       and communication capabilities.
+      I created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.
       </p>
       
       <p><strong>Key Focus Areas:</strong></p>
@@ -124,7 +129,7 @@
       </ul>
   
       <p>
-      This project allowed me to gain hands-on experience in mechanical design, hardware control,           and inter-device communication, which are valuable skills for contributing to collaborative 
+      This project allowed me to gain hands-on experience in mechanical design, hardware control, and inter-device communication, which are valuable skills for contributing to collaborative 
       engineering projects.
       </p>
     </div>
@@ -133,7 +138,9 @@
     <!-- Pictures go here -->
     <p align="center">
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
+      <video width="450" controls>
+      <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" type="video/mp4">
+      </video>
     </p>
   </div>
 </div>
