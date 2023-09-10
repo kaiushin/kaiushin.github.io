@@ -93,7 +93,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project: Blender Digital Twin Hardware Model</h2>
+      <h2 style="font-size: 24px;">Project: Blender Digital Twin</h2>
       
       <p><strong>Description:</strong><br>
       I created a physical model of a blender digital twin with various speed settings, camera views,       and communication capabilities.
