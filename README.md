@@ -48,18 +48,11 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-      <!-- Section 1: Description -->
-      Your description text for section 1 goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
+    Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
   </div>
-  
+
   <div style="flex: 1;">
-      <!-- Section 2: Another Section -->
-      Your content for section 2 goes here. You can format it using Markdown as well.
-  </div>
-  
-  <div style="flex: 1;">
-      <!-- Section 3: Yet Another Section -->
-      This is the content for section 3. You can add more sections as needed.
+    Your description 2
   </div>
 
   <div style="flex: 1; text-align: center;">
