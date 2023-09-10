@@ -46,8 +46,6 @@
 
 ### Personal Project
 
-![iot_car](https://github.com/ushin-cse/ushin-cse.github.io/blob/main/assets/iot_car.png)
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <!-- Description goes here -->
@@ -56,6 +54,8 @@
   <div style="flex: 1; text-align: center;">
     <!-- Pictures goes here -->
     <!--<img src=" alt="GitHub Logo"> -->
-    ![iot_car](https://github.com/ushin-cse/ushin-cse.github.io/blob/main/assets/iot_car.png)
+    <p align="center">
+      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="200">
+    </p>
   </div>
 </div>
