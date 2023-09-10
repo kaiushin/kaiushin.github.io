@@ -200,5 +200,5 @@
 <!-- ------------------------------- Statistics ------------------------------- -->
 
 <div style="text-align: center;">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
