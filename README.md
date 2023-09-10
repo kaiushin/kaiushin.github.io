@@ -47,7 +47,7 @@
 ## Personal Project
 
 <div align="center">
-# IoT RC Car
+  <h1 style="font-size: 36px;">IoT RC Car</h1>
 </div>
 
 <div style="display: flex; align-items: center;">
