@@ -3,15 +3,15 @@
 <h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
 
 <p align="center">
-  <a href="mailto:ushin@buffalo.edu" style="margin: 0 20px;">
+  <a href="mailto:ushin@buffalo.edu" style="margin: 0 0px;">
     <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
 
-  <a href="https://www.linkedin.com/in/u-shin/" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/u-shin/" style="margin: 0 0px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 
-  <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0 20px;">
+  <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0 0px;">
     <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
   </a>
 </p>
