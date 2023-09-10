@@ -48,10 +48,10 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    ## Section 1
+    <h3 Section 1 </h3>
     Your content for section 1 goes here. You can use Markdown formatting for headers, lists, links, and more.
 
-    ## Subsection 1.1
+    <h3 Section 2 </h3>
     This is a subsection within Section 1.
   </div>
 
