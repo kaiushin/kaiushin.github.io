@@ -1,6 +1,6 @@
 <h1 align="center"> </h1>
 <h1 align="center"> U Shin, Computer Engineering Student </h1>
-<h2 align="center">   Hardware & Embedded Software, Embedded Systems: RTOS, IoT, and FPGA</h2>
+<h2 align="center">   As a computer engineering student, I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable Gate Arrays (FPGAs). I am passionate about seamlessly integrating hardware and software for various applications </h2>
 
 <p align="center">
   <a href="mailto:ushin@buffalo.edu" style="margin: 0">
