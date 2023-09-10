@@ -2,8 +2,19 @@
 <h1 align="center"> U Shin, Hardware & Embedded Software</h1>
 <h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
 
-| [![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-shin/) | [![Devpost](https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) |
-|---|---|---|
+<div class="center-icons">
+  <a href="mailto:ushin@buffalo.edu">
+    <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
+  </a>
+
+  <a href="https://www.linkedin.com/in/u-shin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
+  <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
+  </a>
+</div>
 
 
 ### Languages
