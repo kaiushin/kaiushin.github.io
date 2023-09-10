@@ -170,7 +170,7 @@
       </ul>
   
       <p>
-      This project helped me improve my skills in electronics, programming, and hardware integration. It allowed me to create innovative solutions that connect hardware               and software effectively
+      This project helped me improve my skills in electronics, programming, and hardware integration. It allowed me to create innovative solutions that connect hardware               and software effectively.
       </p>
     </div>
 
