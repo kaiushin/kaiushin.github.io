@@ -198,5 +198,6 @@
 
 <!-- ------------------------------- Statistics ------------------------------- -->
 
-![U's GitHub stats](https://github-readme-stats.vercel.app/api?username=ushin-cse&show_icons=true&theme=transparent)
-
+<div style="text-align: center;">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+</div>
