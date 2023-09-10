@@ -6,7 +6,7 @@
 
 ### Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/u-shin/)) [![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu) [![Devpost](https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost)](https://www.devpost.com/your-devpost-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/u-shin/)) [![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu) [![Devpost](https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
 
