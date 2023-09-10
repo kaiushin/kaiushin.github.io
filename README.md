@@ -48,7 +48,11 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
+    ## Section 1
+    Your content for section 1 goes here. You can use Markdown formatting for headers, lists, links, and more.
+
+    ## Subsection 1.1
+    This is a subsection within Section 1.
   </div>
 
   <div style="flex: 1;">
