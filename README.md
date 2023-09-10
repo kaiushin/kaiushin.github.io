@@ -57,7 +57,6 @@
     <br> <!-- Add this line break for spacing -->
     <h2 style="font-size: 24px;">How It Works:</h2>
     I used an ESP32 microcontroller with a Bluetooth module to connect your phone to an app that emulates a physical controller. Simply press the "En" button on the ESP32 to          search for Bluetooth connectivity, then download the "Arduino BT Joystick" app. Connect your phone to the Bluetooth module, and you're ready to control your RC car using your     smartphone.
-
   </div>
 
   <div style="flex: 1; text-align: center;">
