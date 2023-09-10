@@ -94,8 +94,6 @@
 
 <!-- ------------------------------- Project 2 ------------------------------- -->
 
-<!-- ------------------------------- Project 3 ------------------------------- -->
-
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; max-width: 50%; padding: 20px;">
       <h2 style="font-size: 24px;">Project: Blender Digital Twin</h2>
@@ -137,9 +135,13 @@
     <!-- Pictures go here -->
     <p align="center">
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="iot_car" width="450">
-      <video width="456" height="330" controls>
+      <video width="455" height="330" controls>
       <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/fa15ea39-5e31-4252-b0ad-a6a41c55ee50" type="video/mp4">
       </video>
     </p>
   </div>
 </div>
+
+<!-- ------------------------------- Project 2 ------------------------------- -->
+
+
