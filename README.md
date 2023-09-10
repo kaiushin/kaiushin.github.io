@@ -52,10 +52,9 @@
     Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
   </div>
   <div style="flex: 1; text-align: center;">
-    <!-- GitHub logo -->
+    <!-- Pictures goes here -->
     <!--<img src=" alt="GitHub Logo"> -->
     ![iot_car](https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/617e9cd7-c816-4c7c-8250-e5526198bfd4)
-
     
   </div>
 </div>
