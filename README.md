@@ -102,9 +102,7 @@
       <li> Hardware Control </li>
       <li> On-Board Communications </li>
       </ul>
-  
-      <p><strong>Sub-Goals:</strong></p>
-  
+      
       <p><strong>Design and Hardware Assembly:</strong></p>
       <ul>
       <li> Designed a physical blender or used an available blender to enable remote control. </li>
