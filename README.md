@@ -2,9 +2,9 @@
 <h1 align="center"> U Shin, Hardware & Embedded Software</h1>
 <h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu)&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-shin/)&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;[![Devpost](https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-shin/)
+[![Devpost](https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ### Languages
 ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
