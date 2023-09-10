@@ -50,8 +50,8 @@
   <h1 style="font-size: 25px;">IoT RC Car</h1>
 </div>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 50%;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; min-width: 300px;">
     <!-- Description goes here -->
     Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
   </div>
