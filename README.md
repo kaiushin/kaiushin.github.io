@@ -69,44 +69,4 @@
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
     </p>
   </div>
-
-<!-- ------------------------------- Project 2 ------------------------------- -->
-
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project: Blender Digital Twin Hardware Model</h2>
-      
-      <p><strong>Description:</strong><br>
-      I created a physical model of a blender digital twin with various speed settings, camera views,       and communication capabilities to collaborate with other project teams.</p>
-      
-      <p><strong>Key Focus Areas:</strong><br>
-      - Mechanical Design<br>
-      - Hardware Control<br>
-      - On-Board Communications</p>
-  
-      <p><strong>Sub-Goals:</strong></p>
-  
-      <p><strong>Design and Hardware Assembly:</strong><br>
-      - Designed a physical blender or used an available blender to enable remote control.<br>
-      - Integrated hardware components into a functional system.</p>
-  
-      <p><strong>Code Implementation for Hardware Control:</strong><br>
-      - Developed code to control motors, accelerometers, communications, and cameras.</p>
-  
-      <p><strong>Inter-Communications Establishment:</strong><br>
-      - Enabled ESP32 Cam communication with the server and Wi-Fi.<br>
-      - Established seamless communications between ESP32 and Arduino.</p>
-  
-      <p>This project allowed me to gain hands-on experience in mechanical design, hardware control,   
-      and inter-device communication, which are valuable skills for contributing to collaborative 
-      engineering projects.</p>
-    </div>
-
-  <div style="flex: 1; text-align: center;">
-    <!-- Pictures go here -->
-    <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
-    </p>
-  </div>
 </div>
