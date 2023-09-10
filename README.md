@@ -52,7 +52,7 @@
     <h2 style="font-size: 24px;">Project: IoT Remote Control Car</h2>
     
     <p><strong>Inspiration:</strong><br>
-    This project was inspired by Dr. Wenyao Xu's embedded systems and internet of things class. My passion for RC cars and drones led me to work on a project aligning with these interests. The goal was to create an IoT solution to eliminate the need for a physical RC controller.</p>
+    My passion for RC cars and drones led me to work on a project aligning with these interests. The goal was to create an IoT solution to eliminate the need for a physical RC      controller.</p>
 
     <p><strong>Functionality:</strong><br>
     Utilizes an ESP32 microcontroller with a Bluetooth module to enable smartphone control.<br>
