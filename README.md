@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
   </p>
-</a>
 
 ### Languages
 ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
