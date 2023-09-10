@@ -96,10 +96,10 @@
       <p><strong>Description:</strong><br>
       I created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.</p>
       
-      <p><strong>Key Focus Areas:</strong><br>
-      - Mechanical Design<br>
-      - Hardware Control<br>
-      - On-Board Communications</p>
+      <p><strong>Key Focus Areas:</strong>
+      <li> Mechanical Design </li>
+      <li> Hardware Control </li>
+      <li> On-Board Communications </li> </p> 
   
       <p><strong>Sub-Goals:</strong></p>
   
