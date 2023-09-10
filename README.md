@@ -25,7 +25,7 @@
 ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
 
 ### Tools & Software
-![Code Composer Studio Logo](https://img.shields.io/badge/Code%20Composer%20Studio-000000?style=for-the-badge&logo=ti&logoColor=white)
+![CCStudio Logo](https://img.shields.io/badge/CCStudio-000000?style=for-the-badge&logo=ti&logoColor=white)
 ![VSCode Logo](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GDB Logo](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gdb&logoColor=white)
 ![Makefile Logo](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
