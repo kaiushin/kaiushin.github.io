@@ -50,17 +50,17 @@
   <h1 style="font-size: 25px;">IoT RC Car</h1>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+ <div style="flex: 1;">
     <!-- Description goes here -->
     Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
-  </div>
+</div>
 
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
     <!-- Pictures goes here -->
     <p align="center">
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
-      
+      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
     </p>
   </div>
 </div>
