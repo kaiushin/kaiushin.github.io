@@ -129,8 +129,7 @@
       </ul>
   
       <p>
-      This project allowed me to gain hands-on experience in mechanical design, hardware control, and inter-device communication, which are valuable skills for contributing to collaborative 
-      engineering projects.
+      This project allowed me to gain hands-on experience in mechanical design, hardware control, and inter-device communication, which are valuable skills for contributing to        collaborative engineering projects.
       </p>
     </div>
 
