@@ -69,7 +69,6 @@
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
     </p>
   </div>
-</div>
 
 <!-- ------------------------------- Project 2 ------------------------------- -->
 
@@ -102,7 +101,6 @@
       and inter-device communication, which are valuable skills for contributing to collaborative 
       engineering projects.</p>
     </div>
-  </div>
 
   <div style="flex: 1; text-align: center;">
     <!-- Pictures go here -->
