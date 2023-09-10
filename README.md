@@ -199,6 +199,4 @@
 
 <!-- ------------------------------- Statistics ------------------------------- -->
 
-<div style="text-align: center;">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://ushin-cse.github.io/)
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)](https://ushin-cse.github.io/)
