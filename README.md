@@ -47,35 +47,32 @@
 
 <!-- ------------------------------- Project 1 ------------------------------- -->
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project: Blender Digital Twin Hardware Model</h2>
-      
-      <p><strong>Description:</strong><br>
-      I created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.</p>
-      
-      <p><strong>Key Focus Areas:</strong><br>
-      - Mechanical Design<br>
-      - Hardware Control<br>
-      - On-Board Communications</p>
-  
-      <p><strong>Sub-Goals:</strong></p>
-  
-      <p><strong>Design and Hardware Assembly:</strong><br>
-      - Designed a physical blender or used an available blender to enable remote control.<br>
-      - Integrated hardware components into a functional system.</p>
-  
-      <p><strong>Code Implementation for Hardware Control:</strong><br>
-      - Developed code to control motors, accelerometers, communications, and cameras.</p>
-  
-      <p><strong>Inter-Communications Establishment:</strong><br>
-      - Enabled ESP32 Cam communication with the server and Wi-Fi.<br>
-      - Established seamless communications between ESP32 and Arduino.</p>
-  
-      <p>This project allowed me to gain hands-on experience in mechanical design, hardware control,   
-      and inter-device communication, which are valuable skills for contributing to collaborative 
-      engineering projects.</p>
-    </div>
+ <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; max-width: 50%; padding: 20px;">
+    <h2 style="font-size: 24px;">Project: IoT Remote Control Car</h2>
+    
+    <p><strong>Inspiration:</strong><br>
+    This project was inspired by Dr. Wenyao Xu's embedded systems and internet of things class. My passion for RC cars and drones led me to work on a project aligning with these interests. The goal was to create an IoT solution to eliminate the need for a physical RC controller.</p>
+
+    <p><strong>Functionality:</strong><br>
+    Utilizes an ESP32 microcontroller with a Bluetooth module to enable smartphone control.<br>
+    Features an "En" button on the ESP32 for Bluetooth pairing.<br>
+    Requires users to download the "Arduino BT Joystick" app for seamless remote control.<br>
+    Offers a user-friendly interface with no steep learning curve.</p>
+
+    <p><strong>Development Process:</strong><br>
+    - Disassembled a Walmart RC car while retaining its motor driver and microcontroller.<br>
+    - Replaced the internal microcontroller with a more powerful ESP32.<br>
+    - Leveraged the existing motor driver for precise control of car movements (forward, backward, left, and right turns).<br>
+    - Collaborated with a hackathon staff member and Professor Ghanei for custom soldering of five necessary controls and a ground connection.<br>
+    - Connected the soldered wires to GPIO pins on the ESP32.<br>
+    - Used Arduino IDE to code, setting up inputs and outputs.<br>
+    - Incorporated Bluetooth functionality using ESP32 documentation code.<br>
+    - Added LED indicators for Bluetooth mode and audio feedback for control actions.</p>
+
+    <p>This project allowed me to apply my passion for RC technology and develop expertise in IoT, hardware modification, and microcontroller programming.</p>
+  </div>
+</div>
 
   <div style="flex: 1; text-align: center;">
     <!-- Pictures go here -->
