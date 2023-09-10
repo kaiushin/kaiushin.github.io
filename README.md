@@ -1,31 +1,20 @@
-<head>
-
 <h1 align="center"> </h1>
 <h1 align="center"> U Shin, Hardware & Embedded Software</h1>
 <h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
 
-<style>
-  .center-icons {
-    text-align: center;
-  }
-</style>
-</head>
-<body>
-
-<div class="center-icons">
-  <a href="mailto:ushin@buffalo.edu">
+<p align="center">
+  <a href="mailto:ushin@buffalo.edu" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
 
-  <a href="https://www.linkedin.com/in/u-shin/">
+  <a href="https://www.linkedin.com/in/u-shin/" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 
-  <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
   </a>
-</div>
-
+</p>
 
 ### Languages
 ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
