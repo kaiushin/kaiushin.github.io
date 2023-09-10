@@ -54,7 +54,6 @@
   <div style="flex: 1; text-align: center;">
     <!-- Pictures goes here -->
     <!--<img src=" alt="GitHub Logo"> -->
-    ![iot_car](https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/617e9cd7-c816-4c7c-8250-e5526198bfd4)
-    
+    ![iot_car](https://github.com/ushin-cse/ushin-cse.github.io/blob/main/assets/iot_car.png)
   </div>
 </div>
