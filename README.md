@@ -83,42 +83,6 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; max-width: 50%; padding: 20px;">
-    <h2 style="font-size: 24px;">Project: RC Car Remote Control App</h2>
-    
-    <p><strong>Inspiration:</strong><br>
-    This project was inspired by Dr. Wenyao Xu's embedded systems and internet of things class. My passion for RC cars and drones led me to work on a project aligning with these interests. The goal was to create an IoT solution to eliminate the need for a physical RC controller.</p>
-
-    <p><strong>Functionality:</strong><br>
-    Utilizes an ESP32 microcontroller with a Bluetooth module to enable smartphone control.<br>
-    Features an "En" button on the ESP32 for Bluetooth pairing.<br>
-    Requires users to download the "Arduino BT Joystick" app for seamless remote control.<br>
-    Offers a user-friendly interface with no steep learning curve.</p>
-
-    <p><strong>Development Process:</strong><br>
-    - Disassembled a Walmart RC car while retaining its motor driver and microcontroller.<br>
-    - Replaced the internal microcontroller with a more powerful ESP32.<br>
-    - Leveraged the existing motor driver for precise control of car movements (forward, backward, left, and right turns).<br>
-    - Collaborated with a hackathon staff member and Professor Ghanei for custom soldering of five necessary controls and a ground connection.<br>
-    - Connected the soldered wires to GPIO pins on the ESP32.<br>
-    - Used Arduino IDE to code, setting up inputs and outputs.<br>
-    - Incorporated Bluetooth functionality using ESP32 documentation code.<br>
-    - Added LED indicators for Bluetooth mode and audio feedback for control actions.</p>
-
-    <p>This project allowed me to apply my passion for RC technology and develop expertise in IoT, hardware modification, and microcontroller programming.</p>
-  </div>
-</div>
-
-  <div style="flex: 1; text-align: center;">
-    <!-- Pictures go here -->
-    <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
-    </p>
-  </div>
-</div>
-
 <!-- ------------------------------- Project 2 ------------------------------- -->
 
   <div style="display: flex; justify-content: center; align-items: center;">
