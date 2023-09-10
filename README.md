@@ -182,3 +182,7 @@
   </div>
 </div>
 
+<!-- ------------------------------- Statistics ------------------------------- -->
+
+![U's GitHub stats](https://github-readme-stats.vercel.app/api?username=ushin-cse&show_icons=true&theme=transparent)
+
