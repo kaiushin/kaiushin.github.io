@@ -105,16 +105,22 @@
   
       <p><strong>Sub-Goals:</strong></p>
   
-      <p><strong>Design and Hardware Assembly:</strong><br>
-      - Designed a physical blender or used an available blender to enable remote control.<br>
-      - Integrated hardware components into a functional system.</p>
+      <p><strong>Design and Hardware Assembly:</strong></p>
+      <ul>
+      <li> Designed a physical blender or used an available blender to enable remote control. </li>
+      <li> Integrated hardware components into a functional system. </li>
+      </ul>
+      
+      <p><strong>Code Implementation for Hardware Control:</strong></p>
+      <ul>
+      <li> Developed code to control motors, accelerometers, communications, and cameras. </li>
+      </ul>
   
-      <p><strong>Code Implementation for Hardware Control:</strong><br>
-      - Developed code to control motors, accelerometers, communications, and cameras.</p>
-  
-      <p><strong>Inter-Communications Establishment:</strong><br>
-      - Enabled ESP32 Cam communication with the server and Wi-Fi.<br>
-      - Established seamless communications between ESP32 and Arduino.</p>
+      <p><strong>Inter-Communications Establishment:</strong></p>
+      <ul>
+      <li> Enabled ESP32 Cam communication with the server and Wi-Fi. </li>
+      <li> Established seamless communications between ESP32 and Arduino.</li>
+      </ul>
   
       <p>This project allowed me to gain hands-on experience in mechanical design, hardware control,   
       and inter-device communication, which are valuable skills for contributing to collaborative 
