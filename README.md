@@ -48,20 +48,12 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3 Section 1 </h3>
-    Your content for section 1 goes here. You can use Markdown formatting for headers, lists, links, and more.
-
-    <h3 Section 2 </h3>
-    This is a subsection within Section 1.
-  </div>
-
-  <div style="flex: 1;">
-    Your description 2
+    <!-- Description goes here -->
+    Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
   </div>
 
   <div style="flex: 1; text-align: center;">
     <!-- Pictures goes here -->
-    <!--<img src=" alt="GitHub Logo"> -->
     <p align="center">
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
