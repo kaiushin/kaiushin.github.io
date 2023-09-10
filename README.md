@@ -73,7 +73,9 @@
       <li> Added LED indicators for Bluetooth mode and audio feedback for control actions. </li>
       </ul>
   
-      <p>This project allowed me to apply my passion for RC technology and develop expertise in IoT,         hardware modification, and microcontroller programming.</p>
+      <p>
+      This project allowed me to apply my passion for RC technology and develop expertise in IoT,           hardware modification, and microcontroller programming.
+      </p>
     </div>
 
   <div style="flex: 1; text-align: center;">
@@ -94,7 +96,8 @@
       <h2 style="font-size: 24px;">Project: Blender Digital Twin Hardware Model</h2>
       
       <p><strong>Description:</strong><br>
-      I created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.</p>
+      I created a physical model of a blender digital twin with various speed settings, camera views,       and communication capabilities.
+      </p>
       
       <p><strong>Key Focus Areas:</strong></p>
       <ul>
@@ -120,9 +123,10 @@
       <li> Established seamless communications between ESP32 and Arduino.</li>
       </ul>
   
-      <p>This project allowed me to gain hands-on experience in mechanical design, hardware control,   
-      and inter-device communication, which are valuable skills for contributing to collaborative 
-      engineering projects.</p>
+      <p>
+      This project allowed me to gain hands-on experience in mechanical design, hardware control,           and inter-device communication, which are valuable skills for contributing to collaborative 
+      engineering projects.
+      </p>
     </div>
 
   <div style="flex: 1; text-align: center;">
