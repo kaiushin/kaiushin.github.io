@@ -182,6 +182,20 @@
   </div>
 </div>
 
+<!-- ------------------------------- Courses ------------------------------- -->
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1; max-width: 50%; padding: 20px;">
+      <h2 style="font-size: 24px;">Courses</h2>
+      
+      <ul>
+      <li> Computer Architecture </li>
+      <li> HDL Based Digital Design with Programmable Logic </li>
+      <li> Systems Programming </li>
+      </ul>
+      
+    </div>
+
 <!-- ------------------------------- Statistics ------------------------------- -->
 
 ![U's GitHub stats](https://github-readme-stats.vercel.app/api?username=ushin-cse&show_icons=true&theme=transparent)
