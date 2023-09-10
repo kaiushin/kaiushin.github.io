@@ -25,6 +25,7 @@
 ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
 
 ### Tools
+![Vivado Logo](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ### Frameworks
 
