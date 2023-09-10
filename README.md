@@ -47,12 +47,12 @@
 
 <!-- ------------------------------- Project 1 ------------------------------- -->
 
- <div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; max-width: 50%; padding: 20px;">
-    <h2 style="font-size: 24px;">Project: IoT Remote Control Car</h2>
-    
+    <h2 style="font-size: 24px;">Project: RC Car Remote Control App</h2>
+
     <p><strong>Inspiration:</strong><br>
-    My passion for RC cars and drones led me to work on a project aligning with these interests. The goal was to create an IoT solution to eliminate the need for a physical RC      controller.</p>
+    This project was inspired by Dr. Wenyao Xu's embedded systems and internet of things class. My passion for RC cars and drones led me to work on a project aligning with these interests. The goal was to create an IoT solution to eliminate the need for a physical RC controller.</p>
 
     <p><strong>Functionality:</strong><br>
     Utilizes an ESP32 microcontroller with a Bluetooth module to enable smartphone control.<br>
@@ -60,15 +60,17 @@
     Requires users to download the "Arduino BT Joystick" app for seamless remote control.<br>
     Offers a user-friendly interface with no steep learning curve.</p>
 
-    <p><strong>Development Process:</strong><br>
-    - Disassembled a Walmart RC car while retaining its motor driver and microcontroller.<br>
-    - Replaced the internal microcontroller with a more powerful ESP32.<br>
-    - Leveraged the existing motor driver for precise control of car movements (forward, backward, left, and right turns).<br>
-    - Collaborated with a hackathon staff member and Professor Ghanei for custom soldering of five necessary controls and a ground connection.<br>
-    - Connected the soldered wires to GPIO pins on the ESP32.<br>
-    - Used Arduino IDE to code, setting up inputs and outputs.<br>
-    - Incorporated Bluetooth functionality using ESP32 documentation code.<br>
-    - Added LED indicators for Bluetooth mode and audio feedback for control actions.</p>
+    <p><strong>Development Process:</strong></p>
+    <ul>
+      <li>Disassembled a Walmart RC car while retaining its motor driver and microcontroller.</li>
+      <li>Replaced the internal microcontroller with a more powerful ESP32.</li>
+      <li>Leveraged the existing motor driver for precise control of car movements (forward, backward, left, and right turns).</li>
+      <li>Collaborated with a hackathon staff member and Professor Ghanei for custom soldering of five necessary controls and a ground connection.</li>
+      <li>Connected the soldered wires to GPIO pins on the ESP32.</li>
+      <li>Used Arduino IDE to code, setting up inputs and outputs.</li>
+      <li>Incorporated Bluetooth functionality using ESP32 documentation code.</li>
+      <li>Added LED indicators for Bluetooth mode and audio feedback for control actions.</li>
+    </ul>
 
     <p>This project allowed me to apply my passion for RC technology and develop expertise in IoT, hardware modification, and microcontroller programming.</p>
   </div>
@@ -84,6 +86,8 @@
 </div>
 
 <!-- ------------------------------- Project 2 ------------------------------- -->
+
+<!-- ------------------------------- Project 3 ------------------------------- -->
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; max-width: 50%; padding: 20px;">
