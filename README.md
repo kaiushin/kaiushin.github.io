@@ -137,9 +137,10 @@
   <div style="flex: 1; text-align: center;">
     <!-- Pictures go here -->
     <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
+      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="iot_car" width="450">
       <video width="450" controls>
-      <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" type="video/mp4">
+        <source src="https://github.com/ushin-cse/ushin-cse.github.io/raw/main/assets/55006699/8781b37a-66ad-4aa9-a5a4-acb3f863dc5f.mp4" type="video/mp4">
+        Your browser does not support the video tag.
       </video>
     </p>
   </div>
