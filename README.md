@@ -46,21 +46,36 @@
 
 ## Personal Project
 <!-- ------------------------------- Project 1 ------------------------------- -->
-<div align="center">
-  <h1 style="font-size: 25px;">IoT RC Car</h1>
-</div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project Inspiration:</h2>
-      With a deep interest in RC cars and drones, it was a natural fit for me to work on something related to these topics. The goal was to create an IoT solution for a common 
-      problem: losing or misplacing the remote controller for your RC car.
-      <h2 style="font-size: 24px;">How It Works:</h2>
-      I used an ESP32 microcontroller with a Bluetooth module to connect your phone to an app that emulates a physical controller. Simply press the "En" button on the ESP32 to   
-      search for Bluetooth connectivity, then download the "Arduino BT Joystick" app. Connect your phone to the Bluetooth module, and you're ready to control your RC car using   
-      your smartphone.
+      <h2 style="font-size: 24px;">Project: Blender Digital Twin Hardware Model</h2>
+      
+      <p><strong>Description:</strong><br>
+      I created a physical model of a blender digital twin with various speed settings, camera views,       and communication capabilities to collaborate with other project teams.</p>
+      
+      <p><strong>Key Focus Areas:</strong><br>
+      - Mechanical Design<br>
+      - Hardware Control<br>
+      - On-Board Communications</p>
+  
+      <p><strong>Sub-Goals:</strong></p>
+  
+      <p><strong>Design and Hardware Assembly:</strong><br>
+      - Designed a physical blender or used an available blender to enable remote control.<br>
+      - Integrated hardware components into a functional system.</p>
+  
+      <p><strong>Code Implementation for Hardware Control:</strong><br>
+      - Developed code to control motors, accelerometers, communications, and cameras.</p>
+  
+      <p><strong>Inter-Communications Establishment:</strong><br>
+      - Enabled ESP32 Cam communication with the server and Wi-Fi.<br>
+      - Established seamless communications between ESP32 and Arduino.</p>
+  
+      <p>This project allowed me to gain hands-on experience in mechanical design, hardware control,   
+      and inter-device communication, which are valuable skills for contributing to collaborative 
+      engineering projects.</p>
     </div>
-  </div>
 
   <div style="flex: 1; text-align: center;">
     <!-- Pictures go here -->
