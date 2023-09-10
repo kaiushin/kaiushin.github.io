@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### Languages
+## Languages
 ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 ![VHDL Logo](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white)
 ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
 
-### Tools & Software
+## Tools & Software
 ![CCStudio Logo](https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white)
 ![VSCode Logo](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GDB Logo](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=gdb&logoColor=white)
@@ -36,7 +36,7 @@
 ![CircuitMaker Logo](https://img.shields.io/badge/CircuitMaker-0043CE?style=for-the-badge&logo=altium&logoColor=white)
 ![Multisim Logo](https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge&logo=national-instruments&logoColor=white)
 
-### Technologies
+## Technologies
 ![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -44,7 +44,7 @@
 ![ESP32 Logo](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
 
 
-### Personal Project
+## Personal Project
 
 #### IoT RC Car
 
