@@ -199,6 +199,6 @@
 
 <!-- ------------------------------- Statistics ------------------------------- -->
 
-<div align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false)]()
-</div>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false" alt="My Awesome Stats">
+</p>
