@@ -4,21 +4,22 @@
 
 <p align="center">
   <a href="mailto:ushin@buffalo.edu">
-    <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
+    [![Email Me](https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ushin@buffalo.edu)
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/u-shin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-shin/)
   </a>
 </p>
 
 <p align="center">
   <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-    <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
+    [![Devpost](https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
   </a>
 </p>
+
 
 ### Languages
 ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
