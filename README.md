@@ -48,15 +48,26 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <!-- Description goes here -->
-    Your description text goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
+      <!-- Section 1: Description -->
+      Your description text for section 1 goes here. You can use regular Markdown formatting for your text, such as headers, lists, and links.
   </div>
+  
+  <div style="flex: 1;">
+      <!-- Section 2: Another Section -->
+      Your content for section 2 goes here. You can format it using Markdown as well.
+  </div>
+  
+  <div style="flex: 1;">
+      <!-- Section 3: Yet Another Section -->
+      This is the content for section 3. You can add more sections as needed.
+  </div>
+
   <div style="flex: 1; text-align: center;">
     <!-- Pictures goes here -->
     <!--<img src=" alt="GitHub Logo"> -->
     <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="500">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="500">
+      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="400">
+      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="400">
     </p>
   </div>
 </div>
