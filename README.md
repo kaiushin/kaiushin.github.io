@@ -137,7 +137,7 @@
     <!-- Pictures go here -->
     <p align="center">
       <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="iot_car" width="450">
-      <video width="460" height="350" controls>
+      <video width="458" height="330" controls>
       <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/fa15ea39-5e31-4252-b0ad-a6a41c55ee50" type="video/mp4">
       </video>
     </p>
