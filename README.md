@@ -52,7 +52,7 @@
       <h2 style="font-size: 24px;">Project: Blender Digital Twin Hardware Model</h2>
       
       <p><strong>Description:</strong><br>
-      I created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities to collaborate with other project teams.</p>
+      I created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.</p>
       
       <p><strong>Key Focus Areas:</strong><br>
       - Mechanical Design<br>
