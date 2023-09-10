@@ -1,6 +1,6 @@
 <h1 align="center"> </h1>
-<h1 align="center"> U Shin, Hardware & Embedded Software</h1>
-<h2 align="center">   Embedded Systems: RTOS, IoT, and FPGA</h2>
+<h1 align="center"> U Shin, Computer Engineering Student </h1>
+<h2 align="center">   Hardware & Embedded Software, Embedded Systems: RTOS, IoT, and FPGA</h2>
 
 <p align="center">
   <a href="mailto:ushin@buffalo.edu" style="margin: 0">
