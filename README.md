@@ -1,3 +1,7 @@
+<!-- ------------------------------- Vistor Counter ------------------------------- -->
+
+![Visitor Count](https://profile-counter.glitch.me/{ushin-cse}/count.svg)
+
 <!-- ------------------------------- Headers ------------------------------- -->
 
 <h1 align="center"> </h1>
