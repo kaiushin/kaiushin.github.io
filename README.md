@@ -231,5 +231,5 @@
 </p>
 -->
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=ushin-cse&show_icons=true&theme=github_dark&hide=contribs,issues)
+[![GitHub Game of Life](https://github4life.herokuapp.com/your-username.gif?z=6)](https://github.com/ushin-cse)
 
