@@ -8,7 +8,7 @@
 
 <!-- ------------------------------- Margins Setting ------------------------------- -->
 
-<p style="margin-left: 200px; margin-right: 200px;">I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable Gate Arrays (FPGAs). I am passionate about seamlessly integrating hardware and software for various applications</p>
+<p style="margin-left: 500px; margin-right: 500px;">I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable Gate Arrays (FPGAs). I am passionate about seamlessly integrating hardware and software for various applications</p>
 
 <!-- ------------------------------- Socials ------------------------------- -->
 
