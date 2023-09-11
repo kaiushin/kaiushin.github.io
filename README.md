@@ -14,15 +14,15 @@
 
 <div style="margin-left: 150px; margin-right: 150px;">
   <p align="center">
-    <a href="mailto:ushin@buffalo.edu" style="margin: 0">
+    <a href="mailto:ushin@buffalo.edu" style="margin: 0; text-decoration: none;">
       <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
     </a>
   
-    <a href="https://www.linkedin.com/in/u-shin" rel="nofollow" style="margin: 0">
+    <a href="https://www.linkedin.com/in/u-shin" rel="nofollow" style="margin: 0; text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   
-    <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0">
+    <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0; text-decoration: none;">
       <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
     </a>
   </p>
