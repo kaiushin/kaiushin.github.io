@@ -1,6 +1,6 @@
 <!-- ------------------------------- Vistor Counter ------------------------------- -->
 
-![Visitor Count](https://profile-counter.glitch.me/{ushin-cse}/count.svg)
+![](https://komarev.com/ghpvc/?username=ushin-cse&color=green)
 
 <!-- ------------------------------- Headers ------------------------------- -->
 
