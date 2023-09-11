@@ -8,10 +8,6 @@
 
 <!-- ------------------------------- Margins Setting ------------------------------- -->
 
-.container, .container-lg, .container-md, .container-sm, .container-xl {
-    max-width: 1600px !important;
-}
-
 <!-- ------------------------------- Socials ------------------------------- -->
 
 <p align="center">
