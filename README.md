@@ -1,6 +1,13 @@
 <!-- ------------------------------- Vistor Counter ------------------------------- -->
 
-![](https://komarev.com/ghpvc/?username=ushin-cse&color=green)
+<style>
+  .github-badge {
+    margin-left: 100px;
+  }
+</style>
+
+<!-- Add a class to the <img> element -->
+<img class="github-badge" src="https://komarev.com/ghpvc/?username=ushin-cse&color=green" alt="GitHub Profile Views">
 
 <!-- ------------------------------- Headers ------------------------------- -->
 
