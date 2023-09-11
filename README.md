@@ -43,7 +43,7 @@
     margin-right: 150px;
   }
   h2 {
-    text-align: center;
+    text-align: left;
   }
 </style>
 
