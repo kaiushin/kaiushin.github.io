@@ -2,9 +2,6 @@
 
 <h1 align="center"> </h1>
 <h1 align="center"> U Shin </h1>
-h2 {
-    text-align: center;
-}
 <h2 align="center"> Computer Engineering Student </h2>
 
 <div style="margin-left: 150px; margin-right: 150px;">
