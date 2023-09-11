@@ -45,10 +45,6 @@
   h2 {
     text-align: center;
   }
-  img {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
 </style>
 
 <div class="container">
