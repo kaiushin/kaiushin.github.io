@@ -2,7 +2,7 @@
 
 <style>
   .github-badge {
-    margin-left: 600px;
+    margin-left: 1200px;
   }
 </style>
 
