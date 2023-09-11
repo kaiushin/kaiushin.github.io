@@ -36,8 +36,13 @@
     <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0; text-decoration: none;">
       <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
     </a>
+    
+    <a href="https://github.com/ushin-cse" style="margin: 0; text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
   </p>
 </div>
+
 
 <!-- ------------------------------- TECH SKILLS ------------------------------- -->
 
