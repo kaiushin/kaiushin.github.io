@@ -81,7 +81,7 @@
 <!-- ------------------------------- PROJECT ------------------------------- -->
 
 <div style="margin-left: 150px; margin-right: 150px;">
-  ## Personal Project
+  <h2>Personal Project</h2>
   
   <!-- ------------------------------- Project 1 ------------------------------- -->
   
