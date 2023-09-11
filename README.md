@@ -20,44 +20,50 @@
 <!-- ------------------------------- Socials ------------------------------- -->
 
 <div style="margin-left: 150px; margin-right: 150px;">
-<p align="center">
-  <a href="mailto:ushin@buffalo.edu" style="margin: 0">
-    <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
-  </a>
+  <p align="center">
+    <a href="mailto:ushin@buffalo.edu" style="margin: 0">
+      <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
+    </a>
+  
+    <a href="https://www.linkedin.com/in/u-shin" rel="nofollow" style="margin: 0">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  
+    <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0">
+      <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
+    </a>
+  </p>
+</div>
 
-  <a href="https://www.linkedin.com/in/u-shin" rel="nofollow" style="margin: 0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div style="margin-left: 150px; margin-right: 150px;">
+  ## Languages
+  ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![ARM Logo](https://img.shields.io/badge/ARM-00979D?style=for-the-badge&logo=arm&logoColor=white)
+  ![VHDL Logo](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white)
+  ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
+</div>
 
-  <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="margin: 0">
-    <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="Devpost">
-  </a>
-</p>
+<div style="margin-left: 150px; margin-right: 150px;">
+  ## Tools & Software
+  ![VSCode Logo](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![GDB Logo](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=gdb&logoColor=white)
+  ![Makefile Logo](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
+  ![Vivado Logo](https://img.shields.io/badge/Vivado-AC4144?style=for-the-badge&logo=xilinx&logoColor=white)
+  ![Quartus II Logo](https://img.shields.io/badge/Quartus%20II-0081CD?style=for-the-badge&logo=altera&logoColor=white)
+  ![Altium Designer Logo](https://img.shields.io/badge/Altium%20Designer-0043CE?style=for-the-badge&logo=altium&logoColor=white)
+  ![CCStudio Logo](https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white)
+  ![Multisim Logo](https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge&logo=national-instruments&logoColor=white)
+</div>
 
-## Languages
-![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ARM Logo](https://img.shields.io/badge/ARM-00979D?style=for-the-badge&logo=arm&logoColor=white)
-![VHDL Logo](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white)
-![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
-
-## Tools & Software
-![VSCode Logo](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GDB Logo](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=gdb&logoColor=white)
-![Makefile Logo](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
-![Vivado Logo](https://img.shields.io/badge/Vivado-AC4144?style=for-the-badge&logo=xilinx&logoColor=white)
-![Quartus II Logo](https://img.shields.io/badge/Quartus%20II-0081CD?style=for-the-badge&logo=altera&logoColor=white)
-![Altium Designer Logo](https://img.shields.io/badge/Altium%20Designer-0043CE?style=for-the-badge&logo=altium&logoColor=white)
-![CCStudio Logo](https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white)
-![Multisim Logo](https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge&logo=national-instruments&logoColor=white)
-
-## Technologies
-![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32 Logo](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
+<div style="margin-left: 150px; margin-right: 150px;">
+  ## Technologies
+  ![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Android Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Arduino Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![ESP32 Logo](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
 </div>
 
 <!-- ------------------------------- PROJECT ------------------------------- -->
