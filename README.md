@@ -5,7 +5,9 @@
 <h2 align="center"> Computer Engineering Student </h2>
 
 <div style="margin-left: 150px; margin-right: 150px;">
-<h4 align="center">  I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable Gate Arrays (FPGAs). I am passionate about seamlessly integrating hardware and software for various applications </h4>
+  <h4 align="center">  I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable   
+  Gate Arrays (FPGAs). I am passionate about seamlessly integrating hardware and software for various applications 
+  </h4>
 </div>
 
 <!-- ------------------------------- Margins Setting ------------------------------- 
@@ -17,6 +19,7 @@
 
 <!-- ------------------------------- Socials ------------------------------- -->
 
+<div style="margin-left: 150px; margin-right: 150px;">
 <p align="center">
   <a href="mailto:ushin@buffalo.edu" style="margin: 0">
     <img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me">
@@ -55,154 +58,159 @@
 ![Android Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32 Logo](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
-
-## Personal Project
-
-<!-- ------------------------------- Project 1 ------------------------------- -->
-
- <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project: IoT Remote Control Car</h2>
-      
-      <p><strong>Description:</strong><br>
-      This project utilizes an ESP32 microcontroller with Bluetooth capabilities, allowing your   smartphone to connect to an app that emulates a physical controller. Simply press the "En"            
-      button on the ESP32 to pair with your phone via the "Arduino BT Joystick" app.
-      </p>
-      
-      <p><strong>Key Focus Areas:</strong></p>
-      <ul>
-      <li> Hardware Integration </li>
-      <li> Programming </li>
-      </ul>
-      
-      <p><strong>Development Process:</strong></p>
-      <ul>
-      <li> Disassembled a Walmart RC car while retaining its motor driver and microcontroller. </li>
-      <li> Replaced the internal microcontroller with a more powerful ESP32. </li>
-      <li> Utilized the existing motor driver for precise control of car movements (forward,       
-           backward, left, and right turns). </li>
-      <li> Connected the soldered wires to GPIO pins on the ESP32. </li>
-      <li> Programmed the system using Arduino IDE to establish inputs and outputs. </li>
-      <li> Incorporated Bluetooth functionality using ESP32 documentation code. </li>
-      <li> Added LED indicators for Bluetooth mode and audio feedback for control actions. </li>
-      </ul>
-  
-      <p>
-      This project allowed me to apply my passion for RC technology and develop expertise in IoT, hardware modification, and microcontroller programming.
-      </p>
-    </div>
-
-  <div style="flex: 1; text-align: center;">
-    <!-- Pictures go here -->
-    <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
-    </p>
-  </div>
 </div>
 
-<!-- ------------------------------- Project 2 ------------------------------- -->
+<!-- ------------------------------- PROJECT ------------------------------- -->
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project: Blender Digital Twin</h2>
-      
-      <p><strong>Description:</strong><br>
-      Created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.
-      </p>
-      
-      <p><strong>Key Focus Areas:</strong></p>
-      <ul>
-      <li> Mechanical Design </li>
-      <li> Hardware Control </li>
-      <li> On-Board Communications </li>
-      </ul>
-      
-      <p><strong>Design and Hardware Assembly:</strong></p>
-      <ul>
-      <li> Designed a physical blender or used an available blender to enable remote control. </li>
-      <li> Integrated hardware components into a functional system. </li>
-      </ul>
-      
-      <p><strong>Code Implementation for Hardware Control:</strong></p>
-      <ul>
-      <li> Developed code to control motors, accelerometers, communications, and cameras. </li>
-      </ul>
+<div style="margin-left: 150px; margin-right: 150px;">
+  ## Personal Project
   
-      <p><strong>Inter-Communications Establishment:</strong></p>
-      <ul>
-      <li> Enabled ESP32 Cam communication with the server and Wi-Fi. </li>
-      <li> Established seamless communications between ESP32 and Arduino.</li>
-      </ul>
+  <!-- ------------------------------- Project 1 ------------------------------- -->
   
-      <p>
-      This project allowed me to gain hands-on experience in mechanical design, hardware control, and inter-device communication, which are valuable skills for contributing to        collaborative engineering projects.
+   <div style="display: flex; justify-content: center; align-items: center;">
+      <div style="flex: 1; max-width: 50%; padding: 20px;">
+        <h2 style="font-size: 24px;">Project: IoT Remote Control Car</h2>
+        
+        <p><strong>Description:</strong><br>
+        This project utilizes an ESP32 microcontroller with Bluetooth capabilities, allowing your   smartphone to connect to an app that emulates a physical controller. Simply          press the "En" button on the ESP32 to pair with your phone via the "Arduino BT Joystick" app.
+        </p>
+        
+        <p><strong>Key Focus Areas:</strong></p>
+        <ul>
+        <li> Hardware Integration </li>
+        <li> Programming </li>
+        </ul>
+        
+        <p><strong>Development Process:</strong></p>
+        <ul>
+        <li> Disassembled a Walmart RC car while retaining its motor driver and microcontroller. </li>
+        <li> Replaced the internal microcontroller with a more powerful ESP32. </li>
+        <li> Utilized the existing motor driver for precise control of car movements (forward,       
+             backward, left, and right turns). </li>
+        <li> Connected the soldered wires to GPIO pins on the ESP32. </li>
+        <li> Programmed the system using Arduino IDE to establish inputs and outputs. </li>
+        <li> Incorporated Bluetooth functionality using ESP32 documentation code. </li>
+        <li> Added LED indicators for Bluetooth mode and audio feedback for control actions. </li>
+        </ul>
+    
+        <p>
+        This project allowed me to apply my passion for RC technology and develop expertise in IoT, hardware modification, and microcontroller programming.
+        </p>
+      </div>
+  
+    <div style="flex: 1; text-align: center;">
+      <!-- Pictures go here -->
+      <p align="center">
+        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="iot_car" width="450">
+        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="iot_car" width="450">
       </p>
     </div>
-
-  <div style="flex: 1; text-align: center;">
-    <!-- Pictures go here -->
-    <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="iot_car" width="450">
-      <video width="455" height="330" controls>
-      <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/fa15ea39-5e31-4252-b0ad-a6a41c55ee50" type="video/mp4">
-      </video>
-    </p>
   </div>
-</div>
-
-<!-- ------------------------------- Project 2 ------------------------------- -->
-
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; max-width: 50%; padding: 20px;">
-      <h2 style="font-size: 24px;">Project: RGB Toothbrush</h2>
-      
-      <p><strong>Description:</strong><br>
-      Added a timer to an electric toothbrush and incorporated RGB lighting to indicate the timer's start and end.
-      </p>
-      
-      <p><strong>Key Focus Areas:</strong></p>
-      <ul>
-      <li> Electronics </li>
-      <li> Hardware Integration </li>
-      <li> Programming </li>
-      </ul>
-      
-      <p><strong> Hardware Assembly:</strong></p>
-      <ul>
-      <li> added vibrant RGB lighting to enhance the toothbrushing experience and incorporated a timer feature, which requires basic C++ knowledge on the Arduino IDE </li>
-      </ul>
-      
-      <p><strong>Development:</strong></p>
-      <ul>
-      <li> Utilizing components such as Arduino UNO, a breadboard, a DC power source, an L293D Integrated circuit, LEDs, and, notably, a 555 timer IC in                                    addition to the electric toothbrush. The Arduino UNO played a pivotal role as it facilitated seamless interaction between the hardware components and C++                        instructions. The L293D IC received signals from the microprocessor and efficiently transmitted the corresponding signals to control the toothbrush motor. </li>
-      </ul>
   
-      <p>
-      This project helped me improve my skills in electronics, programming, and hardware integration. It allowed me to create innovative solutions that connect hardware               and software effectively.
+  <!-- ------------------------------- Project 2 ------------------------------- -->
+  
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <div style="flex: 1; max-width: 50%; padding: 20px;">
+        <h2 style="font-size: 24px;">Project: Blender Digital Twin</h2>
+        
+        <p><strong>Description:</strong><br>
+        Created a physical model of a blender digital twin with various speed settings, camera views, and communication capabilities.
+        </p>
+        
+        <p><strong>Key Focus Areas:</strong></p>
+        <ul>
+        <li> Mechanical Design </li>
+        <li> Hardware Control </li>
+        <li> On-Board Communications </li>
+        </ul>
+        
+        <p><strong>Design and Hardware Assembly:</strong></p>
+        <ul>
+        <li> Designed a physical blender or used an available blender to enable remote control. </li>
+        <li> Integrated hardware components into a functional system. </li>
+        </ul>
+        
+        <p><strong>Code Implementation for Hardware Control:</strong></p>
+        <ul>
+        <li> Developed code to control motors, accelerometers, communications, and cameras. </li>
+        </ul>
+    
+        <p><strong>Inter-Communications Establishment:</strong></p>
+        <ul>
+        <li> Enabled ESP32 Cam communication with the server and Wi-Fi. </li>
+        <li> Established seamless communications between ESP32 and Arduino.</li>
+        </ul>
+    
+        <p>
+        This project allowed me to gain hands-on experience in mechanical design, hardware control, and inter-device communication, which are valuable skills for contributing           to collaborative engineering projects.
+        </p>
+      </div>
+  
+    <div style="flex: 1; text-align: center;">
+      <!-- Pictures go here -->
+      <p align="center">
+        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="iot_car" width="450">
+        <video width="455" height="330" controls>
+        <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/fa15ea39-5e31-4252-b0ad-a6a41c55ee50" type="video/mp4">
+        </video>
       </p>
     </div>
-
-  <div style="flex: 1; text-align: center;">
-    <!-- Pictures go here -->
-    <p align="center">
-      <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/1ae06f31-56e0-4abb-b723-61730b174ec4" alt="iot_car" width="450">
-    </p>
+  </div>
+  
+  <!-- ------------------------------- Project 2 ------------------------------- -->
+  
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <div style="flex: 1; max-width: 50%; padding: 20px;">
+        <h2 style="font-size: 24px;">Project: RGB Toothbrush</h2>
+        
+        <p><strong>Description:</strong><br>
+        Added a timer to an electric toothbrush and incorporated RGB lighting to indicate the timer's start and end.
+        </p>
+        
+        <p><strong>Key Focus Areas:</strong></p>
+        <ul>
+        <li> Electronics </li>
+        <li> Hardware Integration </li>
+        <li> Programming </li>
+        </ul>
+        
+        <p><strong> Hardware Assembly:</strong></p>
+        <ul>
+        <li> added vibrant RGB lighting to enhance the toothbrushing experience and incorporated a timer feature, which requires basic C++ knowledge on the Arduino IDE </li>
+        </ul>
+        
+        <p><strong>Development:</strong></p>
+        <ul>
+        <li> Utilizing components such as Arduino UNO, a breadboard, a DC power source, an L293D Integrated circuit, LEDs, and, notably, a 555 timer IC in                                    addition to the electric toothbrush. The Arduino UNO played a pivotal role as it facilitated seamless interaction between the hardware components and C++                        instructions. The L293D IC received signals from the microprocessor and efficiently transmitted the corresponding signals to control the toothbrush motor. </li>
+        </ul>
+    
+        <p>
+        This project helped me improve my skills in electronics, programming, and hardware integration. It allowed me to create innovative solutions that connect hardware               and software effectively.
+        </p>
+      </div>
+  
+    <div style="flex: 1; text-align: center;">
+      <!-- Pictures go here -->
+      <p align="center">
+        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/1ae06f31-56e0-4abb-b723-61730b174ec4" alt="iot_car" width="450">
+      </p>
+    </div>
   </div>
 </div>
 
 <!-- ------------------------------- Courses ------------------------------- -->
-
-<div style="display: flex;">
-  <div style="flex: 1; max-width: 50%; padding: 20px;">
-    <h2 style="font-size: 24px;">Courses</h2>
-
-    <ul>
-      <li>Computer Architecture</li>
-      <li>HDL Based Digital Design with Programmable Logic</li>
-      <li>Systems Programming</li>
-    </ul>
-    
+<div style="margin-left: 150px; margin-right: 150px;">
+  <div style="display: flex;">
+    <div style="flex: 1; max-width: 50%; padding: 20px;">
+      <h2 style="font-size: 24px;">Courses</h2>
+  
+      <ul>
+        <li>Computer Architecture</li>
+        <li>HDL Based Digital Design with Programmable Logic</li>
+        <li>Systems Programming</li>
+      </ul>
+      
+    </div>
   </div>
 </div>
 
