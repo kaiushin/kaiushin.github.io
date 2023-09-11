@@ -35,6 +35,8 @@
   </p>
 </div>
 
+<!-- ------------------------------- TECH SKILLS ------------------------------- -->
+
 <div style="margin-left: 150px; margin-right: 150px;">
   ## Languages
   ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) align="left"
