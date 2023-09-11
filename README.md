@@ -37,12 +37,12 @@
 
 <div style="margin-left: 150px; margin-right: 150px;">
   ## Languages
-  ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![ARM Logo](https://img.shields.io/badge/ARM-00979D?style=for-the-badge&logo=arm&logoColor=white)
-  ![VHDL Logo](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white)
-  ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
+  ![Rust Logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) align="left"
+  ![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) align="left"
+  ![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) align="left"
+  ![ARM Logo](https://img.shields.io/badge/ARM-00979D?style=for-the-badge&logo=arm&logoColor=white) align="left"
+  ![VHDL Logo](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white) align="left"
+  ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white) align="left"
 </div>
 
 <div style="margin-left: 150px; margin-right: 150px;">
