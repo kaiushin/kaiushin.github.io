@@ -72,6 +72,7 @@
 </div>
 
 <!-- ------------------------------- PROJECT ------------------------------- -->
+<br>
 
 <!-- Add some spacing below Technologies -->
 <div style="margin-top: 20px; margin-left: 150px; margin-right: 150px;">
