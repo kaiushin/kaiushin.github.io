@@ -231,5 +231,5 @@
 </p>
 -->
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide=contribs,issues)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=ushin-cse&show_icons=true&theme=github_dark&hide=contribs,issues)
 
