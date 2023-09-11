@@ -8,6 +8,8 @@
 
 <!-- ------------------------------- Margins Setting ------------------------------- -->
 
+<p style="margin-left: 10px; margin-right: 10px;">This paragraph has a margin on the left and right.</p>
+
 <!-- ------------------------------- Socials ------------------------------- -->
 
 <p align="center">
