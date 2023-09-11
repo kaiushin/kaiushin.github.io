@@ -31,13 +31,13 @@
 ![Verilog Logo](https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white)
 
 ## Tools & Software
-![CCStudio Logo](https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white)
 ![VSCode Logo](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GDB Logo](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=gdb&logoColor=white)
 ![Makefile Logo](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
 ![Vivado Logo](https://img.shields.io/badge/Vivado-AC4144?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Quartus II Logo](https://img.shields.io/badge/Quartus%20II-0081CD?style=for-the-badge&logo=altera&logoColor=white)
-![CircuitMaker Logo](https://img.shields.io/badge/CircuitMaker-0043CE?style=for-the-badge&logo=altium&logoColor=white)
+![Altium Designer Logo](https://img.shields.io/badge/Altium%20Designer-0043CE?style=for-the-badge&logo=altium&logoColor=white)
+![CCStudio Logo](https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white)
 ![Multisim Logo](https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge&logo=national-instruments&logoColor=white)
 
 ## Technologies
