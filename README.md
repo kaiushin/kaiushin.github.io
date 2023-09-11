@@ -225,11 +225,7 @@
 </div>
 
 <!-- ------------------------------- Statistics ------------------------------- -->
-<!-- 
+
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false" alt="My Awesome Stats">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ushin-cse?cardType=github&theme=vue-dark&preferLogin=false" alt="Stats">
 </p>
--->
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/your-username.gif?z=6)](https://github.com/ushin-cse)
-
