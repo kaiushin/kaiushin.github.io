@@ -57,22 +57,26 @@
   <img src="https://img.shields.io/badge/Verilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog Logo">
 </div>
 
-## Tools & Software
-![VSCode Logo](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GDB Logo](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=gdb&logoColor=white)
-![Makefile Logo](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
-![Vivado Logo](https://img.shields.io/badge/Vivado-AC4144?style=for-the-badge&logo=xilinx&logoColor=white)
-![Quartus II Logo](https://img.shields.io/badge/Quartus%20II-0081CD?style=for-the-badge&logo=altera&logoColor=white)
-![Altium Designer Logo](https://img.shields.io/badge/Altium%20Designer-0043CE?style=for-the-badge&logo=altium&logoColor=white)
-![CCStudio Logo](https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white)
-![Multisim Logo](https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge&logo=national-instruments&logoColor=white)
+<div class="container">
+  <h2>Tools & Software</h2>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Logo">
+  <img src="https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=gdb&logoColor=white" alt="GDB Logo">
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white" alt="Makefile Logo">
+  <img src="https://img.shields.io/badge/Vivado-AC4144?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado Logo">
+  <img src="https://img.shields.io/badge/Quartus%20II-0081CD?style=for-the-badge&logo=altera&logoColor=white" alt="Quartus II Logo">
+  <img src="https://img.shields.io/badge/Altium%20Designer-0043CE?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer Logo">
+  <img src="https://img.shields.io/badge/CCStudio-0078D4?style=for-the-badge&logo=ti&logoColor=white" alt="CCStudio Logo">
+  <img src="https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge&logo=national-instruments&logoColor=white" alt="Multisim Logo">
+</div>
 
-## Technologies
-![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32 Logo](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
+<div class="container">
+  <h2>Technologies</h2>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Logo">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Logo">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Logo">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white" alt="ESP32 Logo">
+</div>
 
 <!-- ------------------------------- PROJECT ------------------------------- -->
 
