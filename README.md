@@ -9,6 +9,8 @@
 <!-- Add a class to the <img> element -->
 <img class="github-badge" src="https://komarev.com/ghpvc/?username=ushin-cse&color=green" alt="GitHub Profile Views">
 
+![](https://komarev.com/ghpvc/?username=ushin-cse&color=green)
+
 <!-- ------------------------------- Headers ------------------------------- -->
 
 <h1 align="center"> </h1>
