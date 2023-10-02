@@ -1,11 +1,5 @@
 <!-- ------------------------------- Vistor Counter ------------------------------- -->
 
-<style>
-  .github-badge {
-    margin-left: 1172px;
-  }
-</style>
-
 ![](https://komarev.com/ghpvc/?username=ushin-cse&color=green)
 
 <!-- ------------------------------- Headers ------------------------------- -->
