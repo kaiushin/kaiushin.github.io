@@ -6,7 +6,7 @@
 
 <h1 align="center"> </h1>
 <h1 align="center"> U Shin </h1>
-<h2 style="text-align: center;">Computer Engineering Student</h2>
+<h2 style="text-align: center;">Software Engineer</h2>
 
 <div style="margin-left: 150px; margin-right: 150px;">
   <h4 align="center">  I specialize in hardware and embedded software. My focus includes Real-Time Operating Systems (RTOS), Internet of Things (IoT), and Field-Programmable   
