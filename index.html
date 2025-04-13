@@ -162,8 +162,105 @@
                     Featured Projects
                 </h2>
 
-                <!-- Project 1 -->
+                <!-- Project 1: Haptic Reality -->
                 <div class="project-card reveal">
+                    <div class="project-content">
+                        <div class="project-details">
+                            <h3 class="project-title">Haptic Reality</h3>
+                            <p class="project-description">
+                                Advanced haptic feedback system using ultrasonic emitters for precise force generation in 3D space.
+                            </p>
+                            <h4 class="project-subtitle">Key Focus Areas:</h4>
+                            <ul class="project-list">
+                                <li>Hardware Integration</li>
+                                <li>Algorithm Development</li>
+                                <li>FPGA Programming</li>
+                                <li>3D Visualization</li>
+                            </ul>
+                            <h4 class="project-subtitle">Development Process:</h4>
+                            <ul class="project-list">
+                                <li>Converged 256 40kHz ultrasonic emitters at a focal point using custom PCB design</li>
+                                <li>Developed and tested Python convergence algorithms for single and multiple focal points</li>
+                                <li>Created Unity visualization system for real-time force feedback based on hand location</li>
+                                <li>Implemented Verilog code for FPGA phase shifting, achieving 2x faster operation than existing systems</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/600x400" alt="Haptic Reality Project" onerror="this.src='https://via.placeholder.com/600x400'">
+                        <img src="https://via.placeholder.com/600x400" alt="Haptic Reality Project" onerror="this.src='https://via.placeholder.com/600x400'">
+                    </div>
+                </div>
+
+                <!-- Project 2: Ultrahand -->
+                <div class="project-card reverse reveal">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/600x400" alt="Ultrahand Project" onerror="this.src='https://via.placeholder.com/600x400'">
+                        <img src="https://via.placeholder.com/600x400" alt="Ultrahand Project" onerror="this.src='https://via.placeholder.com/600x400'">
+                    </div>
+                    <div class="project-content">
+                        <div class="project-details">
+                            <h3 class="project-title">Ultrahand</h3>
+                            <p class="project-description">
+                                VR haptic feedback system using modified gloves for immersive Jenga gameplay experience.
+                            </p>
+                            <h4 class="project-subtitle">Key Focus Areas:</h4>
+                            <ul class="project-list">
+                                <li>Hardware Modification</li>
+                                <li>Wireless Communication</li>
+                                <li>VR Development</li>
+                                <li>Haptic Feedback</li>
+                            </ul>
+                            <h4 class="project-subtitle">Development Process:</h4>
+                            <ul class="project-list">
+                                <li>Modified gloves with integrated vibration motors and extended wiring</li>
+                                <li>Implemented ESP32-based HTTP server for wireless communication</li>
+                                <li>Developed Unity VR environment with hand tracking and object interaction</li>
+                                <li>Integrated haptic feedback system for realistic touch sensations during gameplay</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 3: Blender Digital Twin -->
+                <div class="project-card reveal">
+                    <div class="project-content">
+                        <div class="project-details">
+                            <h3 class="project-title">Blender Digital Twin</h3>
+                            <p class="project-description">
+                                Created a physical model of a blender digital twin with various speed settings, camera views, and
+                                communication capabilities.
+                            </p>
+                            <h4 class="project-subtitle">Key Focus Areas</h4>
+                            <ul class="project-list">
+                                <li>Mechanical Design</li>
+                                <li>Hardware Control</li>
+                                <li>On-Board Communications</li>
+                            </ul>
+                            <h4 class="project-subtitle">Development Process</h4>
+                            <ul class="project-list">
+                                <li>Designed a physical blender to enable remote control</li>
+                                <li>Integrated hardware components into a functional system</li>
+                                <li>Developed code to control motors, accelerometers, communications, and cameras</li>
+                                <li>Enabled ESP32 Cam communication with the server and Wi-Fi</li>
+                                <li>Established seamless communications between ESP32 and Arduino</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="project-image">
+                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="Blender Digital Twin" onerror="this.src='https://via.placeholder.com/600x400'">
+                        <video width="100%" controls>
+                            <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/fa15ea39-5e31-4252-b0ad-a6a41c55ee50" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
+
+                <!-- Project 4: IoT Remote Control Car -->
+                <div class="project-card reverse reveal">
+                    <div class="project-image">
+                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="IoT Remote Control Car" onerror="this.src='https://via.placeholder.com/600x400'">
+                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="IoT Remote Control Car" onerror="this.src='https://via.placeholder.com/600x400'">
+                    </div>
                     <div class="project-content">
                         <div class="project-details">
                             <h3 class="project-title">IoT Remote Control Car</h3>
@@ -171,13 +268,11 @@
                                 This project utilizes an ESP32 microcontroller with Bluetooth capabilities, allowing your smartphone
                                 to connect to an app that emulates a physical controller.
                             </p>
-
                             <h4 class="project-subtitle">Key Focus Areas</h4>
                             <ul class="project-list">
                                 <li>Hardware Integration</li>
                                 <li>Programming</li>
                             </ul>
-
                             <h4 class="project-subtitle">Development Process</h4>
                             <ul class="project-list">
                                 <li>Disassembled a Walmart RC car while retaining its motor driver and microcontroller</li>
@@ -188,76 +283,25 @@
                                 <li>Incorporated Bluetooth functionality using ESP32 documentation code</li>
                                 <li>Added LED indicators for Bluetooth mode and audio feedback for control actions</li>
                             </ul>
-
-                            <a href="#" class="project-link">
-                                View Details <i class="fas fa-external-link-alt"></i>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="project-image">
-                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/29d98a4a-fda4-4851-91d7-4c27af35682d" alt="IoT Remote Control Car" onerror="this.src='https://via.placeholder.com/600x400'">
-                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/0d615888-05a3-4e32-887d-4290270ac935" alt="IoT Remote Control Car" onerror="this.src='https://via.placeholder.com/600x400'">
-                    </div>
-                </div>
-
-                <!-- Project 2 -->
-                <div class="project-card reverse reveal">
-                    <div class="project-image">
-                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/aed78695-dbe6-4600-9d63-341d8b7206a0" alt="Blender Digital Twin" onerror="this.src='https://via.placeholder.com/600x400'">
-                        <video width="100%" controls>
-                            <source src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/fa15ea39-5e31-4252-b0ad-a6a41c55ee50" type="video/mp4">
-                        </video>
-                    </div>
-
-                    <div class="project-content">
-                        <div class="project-details">
-                            <h3 class="project-title">Blender Digital Twin</h3>
-                            <p class="project-description">
-                                Created a physical model of a blender digital twin with various speed settings, camera views, and
-                                communication capabilities.
-                            </p>
-
-                            <h4 class="project-subtitle">Key Focus Areas</h4>
-                            <ul class="project-list">
-                                <li>Mechanical Design</li>
-                                <li>Hardware Control</li>
-                                <li>On-Board Communications</li>
-                            </ul>
-
-                            <h4 class="project-subtitle">Development Process</h4>
-                            <ul class="project-list">
-                                <li>Designed a physical blender to enable remote control</li>
-                                <li>Integrated hardware components into a functional system</li>
-                                <li>Developed code to control motors, accelerometers, communications, and cameras</li>
-                                <li>Enabled ESP32 Cam communication with the server and Wi-Fi</li>
-                                <li>Established seamless communications between ESP32 and Arduino</li>
-                            </ul>
-
-                            <a href="#" class="project-link">
-                                View Details <i class="fas fa-external-link-alt"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
 
-                <!-- Project 3 -->
+                <!-- Project 5: Smart Toothbrush -->
                 <div class="project-card reveal">
                     <div class="project-content">
                         <div class="project-details">
-                            <h3 class="project-title">RGB Toothbrush</h3>
+                            <h3 class="project-title">Smart Toothbrush</h3>
                             <p class="project-description">
                                 Added a timer to an electric toothbrush and incorporated RGB lighting to indicate the timer's start
                                 and end.
                             </p>
-
                             <h4 class="project-subtitle">Key Focus Areas</h4>
                             <ul class="project-list">
                                 <li>Electronics</li>
                                 <li>Hardware Integration</li>
                                 <li>Programming</li>
                             </ul>
-
                             <h4 class="project-subtitle">Development Process</h4>
                             <ul class="project-list">
                                 <li>Added vibrant RGB lighting to enhance the toothbrushing experience</li>
@@ -266,15 +310,10 @@
                                 <li>Implemented a 555 timer IC for precise timing control</li>
                                 <li>Created seamless interaction between hardware components and C++ instructions</li>
                             </ul>
-
-                            <a href="#" class="project-link">
-                                View Details <i class="fas fa-external-link-alt"></i>
-                            </a>
                         </div>
                     </div>
-
                     <div class="project-image">
-                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/1ae06f31-56e0-4abb-b723-61730b174ec4" alt="RGB Toothbrush" onerror="this.src='https://via.placeholder.com/600x400'">
+                        <img src="https://github.com/ushin-cse/ushin-cse.github.io/assets/55006699/1ae06f31-56e0-4abb-b723-61730b174ec4" alt="Smart Toothbrush" onerror="this.src='https://via.placeholder.com/600x400'">
                     </div>
                 </div>
             </div>
