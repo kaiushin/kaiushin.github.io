@@ -614,42 +614,44 @@ img {
   background-color: var(--gray-800);
   max-width: 500px;
   margin: 0 auto;
+  height: 100%;
 }
 
-.project-image img,
-.project-image video {
-  width: 100%;
+/* For vertical images (Ultrahand and Smart Toothbrush) */
+.project-image img[src*="ultrahand.jpg"],
+.project-image img[src*="1ae06f31-56e0-4abb-b723-61730b174ec4"] {
+  width: 60%;
   height: auto;
   max-height: 300px;
   object-fit: contain;
   border-radius: 4px;
 }
 
-.project-image video {
+/* For horizontal images (IoT Remote Control Car) */
+.project-image img[src*="29d98a4a-fda4-4851-91d7-4c27af35682d"] {
   width: 100%;
   height: auto;
-  max-height: 300px;
+  max-height: 250px;
   object-fit: contain;
   border-radius: 4px;
 }
 
+/* For videos (Haptic Reality and Blender Digital Twin) */
+.project-image video {
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+/* Remove hover effects */
 .project-image::before {
-  content: "";
-  position: absolute;
-  inset: -1px;
-  background: linear-gradient(to bottom right, var(--emerald-600), var(--blue-600));
-  border-radius: 0.5rem;
-  z-index: -1;
-  opacity: 0.25;
-  transition: opacity 0.3s;
-}
-
-.project-image:hover::before {
-  opacity: 1;
+  display: none;
 }
 
 .project-image:hover img {
-  transform: scale(1.02);
+  transform: none;
 }
 
 /* Contact Section */
