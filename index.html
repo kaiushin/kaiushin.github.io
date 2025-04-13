@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>U Shin | Software Engineer</title>
+    <meta name="description" content="Portfolio of U Shin, a Software Engineer specializing in hardware and embedded software.">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="portfolio-site">
+        <!-- Navigation -->
+        <nav class="nav-container">
+            <div class="nav-content">
+                <a href="#" class="nav-logo">U Shin</a>
+                <button class="mobile-nav-toggle" aria-label="Toggle navigation menu">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="nav-links">
+                    <a href="#about" class="nav-link">About</a>
+                    <a href="#skills" class="nav-link">Skills</a>
+                    <a href="#projects" class="nav-link">Projects</a>
+                    <a href="#contact" class="nav-link">Contact</a>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="hero-bg"></div>
+            <div class="hero-content">
+                <div class="status-badge">
+                    <span class="status-indicator"></span>
+                    Connect with me @ <a href="https://www.linkedin.com/in/u-shin" target="_blank" rel="noopener noreferrer" class="badge-link">LinkedIn</a>
+                </div>
+
+                <h1 class="hero-title">U Shin</h1>
+                <h2 class="hero-subtitle">Software Engineer</h2>
+
+                <p class="hero-description">
+                    I love learning, solving problems, and building things that challenge me. My interests include software engineering, embedded systems, AI, automation, and edge computing.
+                </p>
+
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/u-shin" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="mailto:ushin@buffalo.edu" class="social-link">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="https://github.com/ushin-cse" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener noreferrer" class="social-link">
+                        <i class="fas fa-code"></i>
+                    </a>
+                </div>
+
+                <div class="scroll-indicator">
+                    <a href="#about-skills" aria-label="Scroll to About and Skills section">
+                        <i class="fas fa-chevron-down"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Combined About and Skills Section -->
+        <section id="about-skills" class="combined-section">
+            <div class="container">
+                <!-- About Section -->
+                <div id="about" class="about-section">
+                    <div class="about-grid">
+                        <div class="about-image-container reveal">
+                            <div class="about-image">
+                                <img src="images/profile.jpg" alt="U Shin" onerror="this.src='https://via.placeholder.com/256'">
+                                <div class="image-overlay"></div>
+                            </div>
+                        </div>
+
+                        <div class="about-content reveal">
+                            <h2 class="section-title">
+                                <span class="title-line"></span>
+                                About Me
+                            </h2>
+
+                            <p class="about-text">
+                                I am a passionate Software Engineer with expertise in hardware and embedded systems. My journey in
+                                technology has been driven by a fascination with the intersection of hardware and software, where I've
+                                developed skills in creating seamless integrations for various applications.
+                            </p>
+
+                            <p class="about-text">
+                                With a strong foundation in Real-Time Operating Systems (RTOS), Internet of Things (IoT), and
+                                Field-Programmable Gate Arrays (FPGAs), I bring a unique perspective to solving complex engineering
+                                challenges.
+                            </p>
+
+                            <div class="about-buttons">
+                                <a href="#projects" class="btn btn-primary">View My Projects</a>
+                                <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Skills Section -->
+                <div id="skills" class="skills-section">
+                    <h2 class="section-title centered">
+                        <span class="title-line centered"></span>
+                        Technical Skills
+                    </h2>
+
+                    <div class="skills-grid">
+    <!-- Programming Languages + Hardware Description -->
+    <div class="skill-card reveal">
+        <h3 class="skill-title">Programming Languages</h3>
+        <div class="skill-tags">
+            <span class="skill-tag">C/C++</span>
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">Rust (familiar)</span>
+            <span class="skill-tag">C#</span>
+            <span class="skill-tag">VHDL</span>
+            <span class="skill-tag">SystemVerilog</span>
+        </div>
+    </div>
+
+    <!-- Embedded Systems + System Design -->
+    <div class="skill-card reveal">
+        <h3 class="skill-title">Embedded Systems</h3>
+        <div class="skill-tags">
+            <span class="skill-tag">FreeRTOS</span>
+            <span class="skill-tag">Linux</span>
+            <span class="skill-tag">ARM Cortex-M/A</span>
+            <span class="skill-tag">FPGA</span>
+            <span class="skill-tag">RISC-V</span>
+            <span class="skill-tag">Real-Time Systems</span>
+        </div>
+    </div>
+
+    <!-- Protocols -->
+    <div class="skill-card reveal">
+        <h3 class="skill-title">Protocols</h3>
+        <div class="skill-tags">
+            <span class="skill-tag">SPI</span>
+            <span class="skill-tag">I2C</span>
+            <span class="skill-tag">UART</span>
+            <span class="skill-tag">USB</span>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects-section">
+            <div class="container">
+                <h2 class="section-title centered">
+                    <span class="title-line centered"></span>
+                    Featured Projects
+                </h2>
+
+                <!-- Project 1 -->
+                <div class="project-card reveal">
+                    <div class="project-content">
+                        <div class="project-details">
+                            <h3 class="project-title">IoT Remote Control Car</h3>
+                            <p class="project-description">
+                                This project utilizes an ESP32 microcontroller with Bluetooth capabilities, allowing your smartphone
+                                to connect to an app that emulates a physical controller.
+                            </p>
+
+                            <h4 class="project-subtitle">Key Focus Areas</h4>
+                            <ul class="project-list">
+                                <li>Hardware Integration</li>
+                                <li>Programming</li>
+                            </ul>
+
+                            <h4 class="project-subtitle">Development Process</h4>
+                            <ul class="project-list">
+                                <li>Disassembled a Walmart RC car while retaining its motor driver and microcontroller</li>
+                                <li>Replaced the internal microcontroller with a more powerful ESP32</li>
+                                <li>Utilized the existing motor driver for precise control of car movements</li>
+                                <li>Connected the soldered wires to GPIO pins on the ESP32</li>
+                                <li>Programmed the system using Arduino IDE to establish inputs and outputs</li>
+                                <li>Incorporated Bluetooth functionality using ESP32 documentation code</li>
+                                <li>Added LED indicators for Bluetooth mode and audio feedback for control actions</li>
+                            </ul>
+
+                            <a href="#" class="project-link">
+                                View Details <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-image">
+                        <img src="images/project1.jpg" alt="IoT Remote Control Car" onerror="this.src='https://via.placeholder.com/600x400'">
+                    </div>
+                </div>
+
+                <!-- Project 2 -->
+                <div class="project-card reverse reveal">
+                    <div class="project-image">
+                        <img src="images/project2.jpg" alt="Blender Digital Twin" onerror="this.src='https://via.placeholder.com/600x400'">
+                    </div>
+
+                    <div class="project-content">
+                        <div class="project-details">
+                            <h3 class="project-title">Blender Digital Twin</h3>
+                            <p class="project-description">
+                                Created a physical model of a blender digital twin with various speed settings, camera views, and
+                                communication capabilities.
+                            </p>
+
+                            <h4 class="project-subtitle">Key Focus Areas</h4>
+                            <ul class="project-list">
+                                <li>Mechanical Design</li>
+                                <li>Hardware Control</li>
+                                <li>On-Board Communications</li>
+                            </ul>
+
+                            <h4 class="project-subtitle">Development Process</h4>
+                            <ul class="project-list">
+                                <li>Designed a physical blender to enable remote control</li>
+                                <li>Integrated hardware components into a functional system</li>
+                                <li>Developed code to control motors, accelerometers, communications, and cameras</li>
+                                <li>Enabled ESP32 Cam communication with the server and Wi-Fi</li>
+                                <li>Established seamless communications between ESP32 and Arduino</li>
+                            </ul>
+
+                            <a href="#" class="project-link">
+                                View Details <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 3 -->
+                <div class="project-card reveal">
+                    <div class="project-content">
+                        <div class="project-details">
+                            <h3 class="project-title">RGB Toothbrush</h3>
+                            <p class="project-description">
+                                Added a timer to an electric toothbrush and incorporated RGB lighting to indicate the timer's start
+                                and end.
+                            </p>
+
+                            <h4 class="project-subtitle">Key Focus Areas</h4>
+                            <ul class="project-list">
+                                <li>Electronics</li>
+                                <li>Hardware Integration</li>
+                                <li>Programming</li>
+                            </ul>
+
+                            <h4 class="project-subtitle">Development Process</h4>
+                            <ul class="project-list">
+                                <li>Added vibrant RGB lighting to enhance the toothbrushing experience</li>
+                                <li>Incorporated a timer feature using Arduino IDE and C++</li>
+                                <li>Utilized components including Arduino UNO, breadboard, DC power source, and L293D IC</li>
+                                <li>Implemented a 555 timer IC for precise timing control</li>
+                                <li>Created seamless interaction between hardware components and C++ instructions</li>
+                            </ul>
+
+                            <a href="#" class="project-link">
+                                View Details <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-image">
+                        <img src="images/project3.jpg" alt="RGB Toothbrush" onerror="this.src='https://via.placeholder.com/600x400'">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact-section">
+            <div class="container">
+                <h2 class="section-title centered">
+                    <span class="title-line centered"></span>
+                    Get In Touch
+                </h2>
+
+                <div class="contact-container reveal">
+                    <p class="contact-intro">
+                        I'm always open to discussing new projects, opportunities, or partnerships. Feel free to reach out through
+                        any of the channels below.
+                    </p>
+
+                    <div class="contact-methods">
+                        <a href="mailto:ushin@buffalo.edu" class="contact-method">
+                            <div class="contact-icon-container">
+                                <i class="fas fa-envelope contact-icon"></i>
+                            </div>
+                            <h3 class="contact-method-title">Email</h3>
+                            <p class="contact-method-text">ushin@buffalo.edu</p>
+                        </a>
+
+                        <a href="https://www.linkedin.com/in/u-shin" target="_blank" rel="noopener noreferrer" class="contact-method">
+                            <div class="contact-icon-container">
+                                <i class="fab fa-linkedin-in contact-icon"></i>
+                            </div>
+                            <h3 class="contact-method-title">LinkedIn</h3>
+                            <p class="contact-method-text">Connect with me</p>
+                        </a>
+
+                        <a href="https://github.com/ushin-cse" target="_blank" rel="noopener noreferrer" class="contact-method">
+                            <div class="contact-icon-container">
+                                <i class="fab fa-github contact-icon"></i>
+                            </div>
+                            <h3 class="contact-method-title">GitHub</h3>
+                            <p class="contact-method-text">View my projects</p>
+                        </a>
+
+                        <a href="https://devpost.com/ushin404?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener noreferrer" class="contact-method">
+                            <div class="contact-icon-container">
+                                <i class="fas fa-code contact-icon"></i>
+                            </div>
+                            <h3 class="contact-method-title">Devpost</h3>
+                            <p class="contact-method-text">Hackathon projects</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <p class="copyright">
+                    &copy; <span id="current-year">2025</span> U Shin. All rights reserved.
+                </p>
+                <div class="footer-links">
+                    <a href="#" class="footer-link">Home</a>
+                    <a href="#about" class="footer-link">About</a>
+                    <a href="#skills" class="footer-link">Skills</a>
+                    <a href="#projects" class="footer-link">Projects</a>
+                    <a href="#contact" class="footer-link">Contact</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
