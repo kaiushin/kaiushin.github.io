@@ -613,18 +613,18 @@ img {
   height: auto;
   max-height: 400px;
   object-fit: contain;
-  border: 2px solid var(--gray-950);
-  border-radius: 4px;
+  border: 2px solid var(--gray-800);
+  border-radius: 10px;
 }
 
 /* For vertical images (Ultrahand) */
 .project-image img[src*="ultrahand.jpg"] {
   width: 100%;
   height: auto;
-  max-height: 600px;
+  max-height: 500px;
   object-fit: contain;
-  border: 2px solid var(--gray-950);
-  border-radius: 4px;
+  border: 2px solid var(--gray-800);
+  border-radius: 10px;
 }
 
 /* For horizontal image (IoT Remote Control Car) */
@@ -633,8 +633,8 @@ img {
   height: auto;
   max-height: 400px;
   object-fit: contain;
-  border: 2px solid var(--gray-950);
-  border-radius: 4px;
+  border: 2px solid var(--gray-800);
+  border-radius: 10px;
 }
 
 /* Remove hover effects */
