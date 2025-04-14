@@ -613,15 +613,18 @@ img {
   height: auto;
   max-height: 400px;
   object-fit: contain;
+  border: 2px solid var(--gray-700);
+  border-radius: 4px;
 }
 
-/* For vertical images (Ultrahand and Smart Toothbrush) */
-.project-image img[src*="ultrahand.jpg"],
-.project-image img[src*="1ae06f31-56e0-4abb-b723-61730b174ec4"] {
+/* For vertical images (Ultrahand) */
+.project-image img[src*="ultrahand.jpg"] {
   width: 100%;
   height: auto;
-  max-height: 400px;
+  max-height: 500px;
   object-fit: contain;
+  border: 2px solid var(--gray-700);
+  border-radius: 4px;
 }
 
 /* For horizontal image (IoT Remote Control Car) */
@@ -630,6 +633,8 @@ img {
   height: auto;
   max-height: 400px;
   object-fit: contain;
+  border: 2px solid var(--gray-700);
+  border-radius: 4px;
 }
 
 /* Remove hover effects */
@@ -727,6 +732,18 @@ img {
   font-size: 0.875rem;
   color: var(--gray-400);
   text-align: center;
+}
+
+/* Contact section styles */
+.contact-description {
+  text-align: center;
+  font-size: 1.25rem;
+  color: var(--gray-300);
+  margin: 2rem 0;
+}
+
+.contact-description strong {
+  color: var(--emerald-400);
 }
 
 /* Footer */
